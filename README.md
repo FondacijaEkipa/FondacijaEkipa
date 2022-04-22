@@ -3,6 +3,15 @@ limitless toolset for storytelling and with the right talent involved, everythin
 
 Majority of our projects are entirely based on modern technologies. Our ability of Full Cycle Software Development gives us full control over the IT segment of our projects. Ultimately, it gives us the ability to fully integrate the technology into any stage of our creative planning.
 
+Our technology stack:
+Frontend: HTML, CSS, JS
+Backend: PHP, JS, Python; Frameworks: Laravel, Django, Node JS
+Microservices: REST API
+Webservers: Apache, Nginx
+Databases: PostgresSQL, MySQL, (Redis).
+Mobile: Flutter
+Hardware and IoT: C / C++, VHDL, Python
+
 We welcome you to contribute to our open source projects 
 
 Contat Us at:
