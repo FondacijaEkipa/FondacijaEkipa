@@ -9,7 +9,6 @@ Our technology stack:
 Frontend: HTML, CSS, JS
 Backend: PHP, JS, Python; Frameworks: Laravel, Django, Node JS
 Microservices: REST API
-Webservers: Apache, Nginx
 Databases: PostgresSQL, MySQL, (Redis).
 Mobile: Flutter
 Hardware and IoT: C / C++, VHDL, Python
